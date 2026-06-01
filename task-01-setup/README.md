@@ -42,3 +42,12 @@ AI can help CoreTech Innovation in several key ways:
 3. Process Automation: Repetitive internal tasks (data entry, report generation, scheduling) can be automated with AI agents
 4. Data-Driven Decisions: AI can analyze business data and applications development to predict outcomes, and guide strategy
 5. Faster Development: AI coding assistants can accelerate the engineering team's productivity
+
+
+# Screenshots
+
+### GitHub Repository
+![GitHub Repo](screenshots/github-repo.png)
+
+### Google Colab Notebook
+![Google Colab](screenshots/colab-notebook.png)
