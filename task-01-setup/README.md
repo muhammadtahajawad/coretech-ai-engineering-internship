@@ -45,8 +45,6 @@ AI can help CoreTech Innovation in several key ways:
 
 
 # Screenshots
-<img width="1365" height="716" alt="colab-notebook png" src="https://github.com/user-attachments/assets/b957bf04-afa3-48bd-a176-ac86300f1388" />
-<img width="1363" height="719" alt="github-repo png" src="https://github.com/user-attachments/assets/86d10562-ae34-40c4-b204-4be87b47e242" />
 
 ### GitHub Repository
 <img width="1365" height="716" alt="colab-notebook png" src="https://github.com/user-attachments/assets/b957bf04-afa3-48bd-a176-ac86300f1388" />
