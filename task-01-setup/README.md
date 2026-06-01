@@ -1,5 +1,3 @@
-# Task 01: Setup and Introduction
-
 Introduction
 
 Name: Muhammad Taha Jawad
@@ -11,7 +9,7 @@ Goals: To gain experience in AI Engineering, build intelligent systems, and appl
 
 # What is AI Engineering?
 
-AI Engineering is the discipline of designing, building, deploying, and maintaining AI-powered systems and applications. It bridges the gap between AI research and real world production by taking machine learning models and large language models (LLMs) and turning them into reliable, scalable software products. AI Engineers work with APIs, pipelines, prompts, and infrastructure to bring intelligent features into products people actually use.
+AI Engineering is the discipline of designing, building, deploying, and maintaining AI powered systems and applications. It bridges the gap between AI research and real world production by taking machine learning models and large language models (LLMs) and turning them into reliable, scalable software products. AI Engineers work with APIs, pipelines, prompts, and infrastructure to bring intelligent features into products people actually use.
 
 
 # What Does an AI Engineer Do?
