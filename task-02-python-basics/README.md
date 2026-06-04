@@ -1,4 +1,5 @@
-> ⚠️ # **Note:** Due to a global GitHub rendering timeout issue, the `.ipynb` notebook file may display an "Unable to render code block" error above. Please use the official **Open in Colab** badge below to run the interactive code, or view the execution screenshots provided in this document.
+> ⚠️  **Note:** Due to a global GitHub rendering timeout issue, the `.ipynb` notebook file may display an "Unable to render code block" error above. Please use the official **Open in Colab** badge below to run the interactive code, or view the execution screenshots provided in this document.
+
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/muhammadtahajawad/coretech-ai-engineering-internship/blob/main/task-02-python-basics/task2_notebook.ipynb)
 > 
