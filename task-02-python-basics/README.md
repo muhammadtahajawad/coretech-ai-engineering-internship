@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/muhammadtahajawad/coretech-ai-engineering-internship/blob/main/task-02-python-basics/task2_notebook.ipynb)
 # Task 2: Python Basics for AI Applications
 
 **Intern Name:** Muhammad Taha Jawad  
