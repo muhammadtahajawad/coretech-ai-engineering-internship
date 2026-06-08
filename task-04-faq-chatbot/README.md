@@ -5,7 +5,7 @@
 # Task 4: CoreTech FAQ Dataset and Rule-Based Chatbot
 
 **Intern Name:** Muhammad Taha Jawad  
-**Target Organization:** CoreTech Innovations ([coretechio.com](https://coretechio.com))  
+**Target Organization:** CoreTech Innovations  
 **Tools Used:** Python 3, Pandas, Regular Expressions, Git, Google Colab  
 
 ---
