@@ -5,13 +5,13 @@
 # Task 4: CoreTech FAQ Dataset and Rule-Based Chatbot
 
 **Intern Name:** Muhammad Taha Jawad  
-**Target Organization:** CoreTech Innovations  
+**Target Organization:** CoreTech Innovations 
 **Tools Used:** Python 3, Pandas, Regular Expressions, Git, Google Colab  
 
 ---
 
 ## 📋 Operational Project Summary
-This module deploys a functional rule-based chatbot architecture designed to parsing user intent and automatically routing clients to core corporate answers. The setup includes an programmatically-generated dataset mapping company services, pipelines, and constraints.
+This module deploys a functional rule-based chatbot architecture designed to parse user intent and automatically route clients to core corporate answers. The setup includes an programmatically-generated dataset mapping company services, pipelines, and constraints.
 
 ### Key Architectural Enhancements
 * **Token Intersection Matching:** Instead of relying on rigid, breakable string matching, the engine normalizes user input and calculates a token intersection weight score against keyword matrices.
@@ -20,9 +20,17 @@ This module deploys a functional rule-based chatbot architecture designed to par
 ---
 
 ## 📊 Dataset Distribution Verification (`coretech_faq.csv`)
-The dataset context contains exactly 25 comprehensive categorical records:
-* **Core Services Covered:** Web Development, Mobile Apps, Enterprise ERP Systems, UI/UX Design, Cybersecurity, Digital Marketing.
-* **Trust Elements Included:** Target domain authentication, 94% retention proofing benchmarks, post-launch support windows.
+The dataset context contains exactly 25 comprehensive categorical records. 
+
+### 📋 Dataset Preview (Sample Rows)
+Below is a structured preview of how the question, answer, and optimization keywords are mapped inside the target CSV file:
+
+| Question | Answer | Keywords |
+| :--- | :--- | :--- |
+| What services does CoreTech Innovations offer? | CoreTech Innovations delivers enterprise web development, mobile applications, ERP systems, UI/UX design, cybersecurity, and digital marketing services. | services list offer what |
+| What is CoreTech's historical client retention rate? | CoreTech Innovations proudly maintains a verified 94% client retention rate driven by transparent delivery. | retention rate statistic milestone |
+| How does CoreTech handle cybersecurity protocols? | We embed security early into development lifecycles, ensuring strict compliance, threat mitigation, and data protection. | cybersecurity security protocol threat breach hack |
+| Does CoreTech offer structured corporate internships? | Yes, we host structured 3-month AI Engineering internship cohorts focusing on real project exposure. | internship interns batch cohort hire |
 
 ---
 
