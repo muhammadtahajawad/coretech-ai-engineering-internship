@@ -1,8 +1,8 @@
 # Task 5: Streamlit Chatbot User Interface UI
 
-**Intern Name:** Muhammad Taha Jawad  
-**Target Organization:** CoreTech Innovations
-**Tools Installed & Used:** Python 3, Streamlit Web Framework, Pandas, Git CLI Pipeline  
+* **Intern Name:** Muhammad Taha Jawad  
+* **Target Organization:** CoreTech Innovations
+* **Tools Installed & Used:** Python 3, Streamlit Web Framework, Pandas, Git CLI Pipeline  
 
 ---
 
