@@ -114,24 +114,13 @@ Commands:
 
 ---
 
-## Sample Output
+## Output Screenshots
 
-Query: cybersecurity and data protection  
+<img width="995" height="585" alt="tf_idf_matrix" src="https://github.com/user-attachments/assets/02c6fb89-12e3-478c-b602-8cf854f64f48" />
 
-Result 1 | Score: 0.3637 | High Relevance  
-Category: Services  
-Title: Cybersecurity Service  
-Preview: Enterprise-grade cybersecurity solutions...  
+<img width="1167" height="573" alt="query_results" src="https://github.com/user-attachments/assets/8fddbe85-5d1e-44fc-9609-e7838f31901b" />
 
-Result 2 | Score: 0.1450 | Medium Relevance  
-Category: Company Info  
-Title: CoreTech Why Choose Us  
-Preview: Security and quality embedded early...  
-
-Result 3 | Score: 0.0821 | Low Relevance  
-Category: Services  
-Title: Software Quality Services  
-Preview: Testing and validation processes...  
+<img width="1022" height="583" alt="score_analysis" src="https://github.com/user-attachments/assets/58427ba6-cf95-427d-9d4d-b9b155331cdb" />
 
 ---
 
