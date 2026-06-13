@@ -79,6 +79,11 @@ python rag_assistant.py
 ## Screenshots
 
 
+
+<img width="731" height="607" alt="Screenshot 2026-06-14 001106" src="https://github.com/user-attachments/assets/d05f91cc-3325-4167-9553-512e38d9dc28" />
+<img width="974" height="493" alt="Screenshot 2026-06-14 000922" src="https://github.com/user-attachments/assets/3f368368-2f69-4b58-8e08-ec2d2f215ac3" />
+
+
 ---
 
 *Muhammad Taha — AI Engineering Intern, CoreTech Innovations*  
