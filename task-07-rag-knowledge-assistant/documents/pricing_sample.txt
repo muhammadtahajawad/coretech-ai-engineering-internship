@@ -1,0 +1,45 @@
+DOCUMENT: Pricing Sample
+SOURCE: CoreTech Innovations — coretechio.com/pricing
+
+CoreTech Innovations offers flexible, engagement-based pricing models tailored to project scope, team size, and delivery timeline. The following are sample pricing tiers for reference.
+
+PRICING MODELS:
+
+1. FIXED PRICE MODEL
+Best for: Well-defined projects with clear scope and deliverables.
+How it works: CoreTech scopes the project fully in discovery, provides a fixed quote, and delivers against agreed milestones.
+Typical use cases: MVP development, redesign projects, specific feature builds.
+
+2. TIME AND MATERIALS MODEL
+Best for: Projects with evolving requirements or ongoing development needs.
+How it works: Client pays for actual hours worked by the CoreTech team. Reviewed monthly with transparent reporting.
+Typical use cases: Product development, long-term platform ownership, iterative builds.
+
+3. DEDICATED TEAM MODEL
+Best for: Enterprises needing a full embedded engineering pod.
+How it works: CoreTech assembles a dedicated team (engineers, QA, designer, PM) that works exclusively on the client's product.
+Typical use cases: Scale-up teams, complex platform projects, multi-year engagements.
+
+SAMPLE PRICING TIERS:
+
+Starter Package — Small Web or Mobile Project
+- Scope: Up to 3 months, small team (2-3 engineers)
+- Estimated Range: $5,000 – $15,000
+- Includes: Discovery, design, development, basic QA, launch support
+
+Growth Package — Medium Enterprise Project
+- Scope: 3–6 months, medium team (4–6 engineers + QA + designer)
+- Estimated Range: $20,000 – $60,000
+- Includes: Full discovery, architecture, design, development, QA, deployment, 30-day support
+
+Enterprise Package — Large Platform or ERP Project
+- Scope: 6–12 months, full pod (6–12 engineers + QA + designer + PM)
+- Estimated Range: $75,000 – $250,000+
+- Includes: Full lifecycle delivery, dedicated team, compliance support, long-term maintenance
+
+Maintenance and Support Retainer
+- Scope: Ongoing post-launch support
+- Estimated Range: $1,000 – $5,000/month depending on SLA
+- Includes: Bug fixes, performance monitoring, minor feature updates, incident response
+
+NOTE: All pricing is estimated and project-specific. CoreTech provides detailed quotes after the discovery phase. Contact hr@coretechio.com or visit coretechio.com/contact-us for a custom quote.
