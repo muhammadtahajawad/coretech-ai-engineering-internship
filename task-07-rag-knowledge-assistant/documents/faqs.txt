@@ -1,0 +1,49 @@
+DOCUMENT: FAQs
+SOURCE: CoreTech Innovations — coretechio.com
+
+FREQUENTLY ASKED QUESTIONS
+
+Q: What is CoreTech Innovations?
+A: CoreTech Innovations is an enterprise software company based in Nawabshah and Hyderabad, Pakistan that designs, builds, and operates scalable software products for ambitious enterprises worldwide.
+
+Q: What services does CoreTech offer?
+A: CoreTech offers Web Development, Mobile Apps, ERP Systems, UI/UX Design, Digital Marketing, and Cybersecurity as core services. They also offer Software Quality and Delivery, Professional IT Services, Client Care and Maintenance, Finance and Accounting, and Sales and Marketing team augmentation.
+
+Q: Where is CoreTech Innovations located?
+A: CoreTech Innovations is headquartered in Nawabshah and Hyderabad, Pakistan. They also support remote engagements and cover 12 time zones globally.
+
+Q: How can I contact CoreTech Innovations?
+A: Email: hr@coretechio.com | Phone and WhatsApp: +92 348 0394588 | Website: coretechio.com/contact-us
+
+Q: Who founded CoreTech Innovations?
+A: CoreTech was co-founded by Sufyan Arain (CEO and Founder) and Shahzaib Shaikh (CEO and Co-Founder). The CTO is Jawwad Khamboh.
+
+Q: How many projects has CoreTech delivered?
+A: CoreTech has delivered 320+ enterprise and growth-stage technology projects.
+
+Q: What is CoreTech's client retention rate?
+A: CoreTech maintains a 94% client retention rate reflecting strong long-term partnerships.
+
+Q: Does CoreTech work with international clients?
+A: Yes. CoreTech works with global enterprise teams and covers 12 time zones for responsive international delivery.
+
+Q: How do I start a project with CoreTech?
+A: Visit coretechio.com/contact-us to schedule a consultation with a senior engineering team member who will discuss your priorities and propose a tailored approach.
+
+Q: Does CoreTech offer internship programs?
+A: Yes. CoreTech runs structured internship programs in Software Engineering, Cloud, Data, and AI Engineering tracks combining mentorship, real project exposure, and structured learning. Apply at coretechio.com/apply-portal.
+
+Q: What industries does CoreTech serve?
+A: Healthcare, Finance, Manufacturing, Retail, Education, and Enterprise Technology.
+
+Q: Does CoreTech offer post-launch support?
+A: Yes. CoreTech offers Client Care and Maintenance Support Services including bug fixes, performance monitoring, and feature updates under ongoing support agreements.
+
+Q: What makes CoreTech different from other software companies?
+A: CoreTech differentiates through senior attention on every project, transparent milestone-based delivery, architecture-first thinking, security embedded early, and a 94% client retention rate. They focus on long-term maintainability rather than fast delivery that creates technical debt.
+
+Q: Does CoreTech offer cloud services?
+A: Yes. CoreTech offers cloud platform development and cloud modernization. Their ApexOps project is an example of a successful phased cloud migration.
+
+Q: What are CoreTech's notable projects?
+A: ApexOps Cloud Modernization — a phased program moving legacy workloads to a secure cloud model. Meridian Health Analytics Platform — a governed analytics platform for healthcare operational reporting.
