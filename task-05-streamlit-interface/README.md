@@ -5,6 +5,8 @@
 * **Tools Installed & Used:** Python 3, Streamlit Web Framework, Pandas, Git CLI Pipeline  
 
 ---
+## 🔗 Production Deployment Link
+* **Live Interactive Web Application:** [Launch CoreTech Support Engine AI Portal](https://huggingface.co/spaces/mtahajawad/coretech-support-bot)
 
 ## System Architecture & Framework Layout
 This module converts the backend keyword routing engine developed in Task 4 into a professional, enterprise-grade web application interface powered natively by the Streamlit framework. 
