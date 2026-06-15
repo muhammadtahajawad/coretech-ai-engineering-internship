@@ -12,9 +12,9 @@
 RAG (Retrieval-Augmented Generation) is an AI architecture that improves answer quality by grounding responses in a real knowledge base rather than relying on model memory alone.
 
 **Three steps:**
-1. **Retrieve** — Find the most relevant document chunks for the query using TF-IDF and Cosine Similarity
-2. **Augment** — Add retrieved context to the query
-3. **Generate** — Produce a final answer grounded in the retrieved content, with source attribution
+1. **Retrieve**: Find the most relevant document chunks for the query using TF-IDF and Cosine Similarity
+2. **Augment**:Add retrieved context to the query
+3. **Generate**: Produce a final answer grounded in the retrieved content, with source attribution
 
 ---
 
