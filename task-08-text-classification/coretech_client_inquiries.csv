@@ -1,0 +1,81 @@
+id,message,category
+1,I need a website for my restaurant business,Web Development
+2,Can you build an e-commerce website for my store?,Web Development
+3,I want a professional website for my law firm,Web Development
+4,We need a corporate website with CMS integration,Web Development
+5,Can you redesign our existing company website?,Web Development
+6,I need a landing page for my new product launch,Web Development
+7,We want a web portal for our hospital patients,Web Development
+8,Can you build a real estate listing website?,Web Development
+9,I need a blog website for my content business,Web Development
+10,We need a custom web application for inventory management,Web Development
+11,I want to build an Android app for my delivery service,App Development
+12,Can you develop an iOS app for our fitness platform?,App Development
+13,We need a mobile app for our food ordering business,App Development
+14,I want a cross-platform app for my retail store,App Development
+15,Can you build a React Native app for our startup?,App Development
+16,We need a mobile banking app with secure login,App Development
+17,I want an app that tracks employee attendance,App Development
+18,Can you develop a telemedicine app for our clinic?,App Development
+19,We need a mobile app for our e-learning platform,App Development
+20,I want a Flutter app for my logistics company,App Development
+21,Our website looks outdated and needs a modern design,UI/UX Design
+22,I need wireframes and prototypes for my new app,UI/UX Design
+23,Can you redesign the user interface of our dashboard?,UI/UX Design
+24,We need a complete design system for our product,UI/UX Design
+25,I want user research and usability testing for my platform,UI/UX Design
+26,Can you create a mobile UI design for our app?,UI/UX Design
+27,We need a brand identity and visual design package,UI/UX Design
+28,I want an intuitive UX design for my SaaS product,UI/UX Design
+29,Can you improve the user flow on our checkout page?,UI/UX Design
+30,We need interactive prototypes for investor presentations,UI/UX Design
+31,I want to run Google Ads campaigns for my business,Digital Marketing
+32,Can you manage our social media accounts and content?,Digital Marketing
+33,We need a full digital marketing strategy for our brand,Digital Marketing
+34,I want to increase our brand awareness on Instagram and Facebook,Digital Marketing
+35,Can you run email marketing campaigns for our store?,Digital Marketing
+36,We need influencer marketing and content creation services,Digital Marketing
+37,I want paid advertising campaigns on LinkedIn for B2B leads,Digital Marketing
+38,Can you help us with YouTube marketing and video promotion?,Digital Marketing
+39,We need a marketing funnel and lead generation strategy,Digital Marketing
+40,I want to grow our online presence through digital campaigns,Digital Marketing
+41,Our website is not showing up on Google search results,SEO
+42,I need keyword research and on-page SEO for my website,SEO
+43,Can you improve our search engine ranking for competitive keywords?,SEO
+44,We need a technical SEO audit for our e-commerce site,SEO
+45,I want backlink building and off-page SEO services,SEO
+46,Our organic traffic has dropped significantly and we need help,SEO
+47,Can you optimize our website content for better search visibility?,SEO
+48,We need local SEO to attract customers in our city,SEO
+49,I want to rank on the first page of Google for our services,SEO
+50,Can you fix our website crawl errors and improve indexing?,SEO
+51,We need a custom ERP system for our manufacturing plant,Software Solutions
+52,Can you build a CRM software for our sales team?,Software Solutions
+53,I want a custom inventory management system for my warehouse,Software Solutions
+54,We need a hospital management system with billing and records,Software Solutions
+55,Can you develop a school management software with attendance tracking?,Software Solutions
+56,I want a point of sale system for my retail chain,Software Solutions
+57,We need automation software to streamline our operations,Software Solutions
+58,Can you build a data analytics dashboard for our business?,Software Solutions
+59,I want a document management system for our office,Software Solutions
+60,We need custom accounting software integrated with our ERP,Software Solutions
+61,I just wanted to ask about your company and what you do,General Inquiry
+62,Can you tell me more about your services and pricing?,General Inquiry
+63,I would like to know your office location and working hours,General Inquiry
+64,How long does it take to complete a typical project?,General Inquiry
+65,Do you offer free consultations for new clients?,General Inquiry
+66,What is your development process and how do you work?,General Inquiry
+67,Can I see examples of your previous work and portfolio?,General Inquiry
+68,Do you have experience working with international clients?,General Inquiry
+69,I am a student and want to learn about your internship programs,General Inquiry
+70,Can you explain the difference between your service packages?,General Inquiry
+71,Your team did not respond to my emails for over a week,Complaint
+72,The project was delivered late and we missed our deadline,Complaint
+73,We are very disappointed with the quality of the website you built,Complaint
+74,Your support team is not helpful and keeps giving wrong information,Complaint
+75,The mobile app you delivered has too many bugs and crashes constantly,Complaint
+76,We paid for SEO services but our ranking has not improved at all,Complaint
+77,The design you provided looks nothing like what we agreed upon,Complaint
+78,Your project manager never attends our scheduled meetings,Complaint
+79,We have been waiting three months and the project is still incomplete,Complaint
+80,I am very unhappy with the unprofessional behavior of your team,Complaint
