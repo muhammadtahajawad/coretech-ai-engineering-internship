@@ -95,9 +95,29 @@ exec(open('text_classifier.py').read())
 ---
 
 ## Screenshots
+**Dataset distribution:**
 
-[Add Colab output screenshots here]
+<img width="1365" height="593" alt="Screenshot 2026-06-18 160050" src="https://github.com/user-attachments/assets/9ff83c41-2858-4d41-8436-f3faee8193a4" />
 
 ---
 
-*Muhammad Taha — AI Engineering Intern, CoreTech Innovations*  
+**Naive Bayes accuracy and classification report:**
+
+<img width="761" height="523" alt="Screenshot 2026-06-18 160345" src="https://github.com/user-attachments/assets/ce737217-2913-4a8f-b0d4-826f1e450bb2" />
+
+---
+
+**Logistic Regression accuracy and classification report:**
+
+<img width="794" height="516" alt="Screenshot 2026-06-18 160439" src="https://github.com/user-attachments/assets/cce269c9-6a6c-483b-a337-7914751d0bb5" />
+
+---
+
+**Model comparison and Test Predictions:**
+
+<img width="793" height="512" alt="Screenshot 2026-06-18 160628" src="https://github.com/user-attachments/assets/6436023f-afb4-4d3e-ab70-8f7daa55b134" />
+
+
+---
+
+**Muhammad Taha Jawad**
