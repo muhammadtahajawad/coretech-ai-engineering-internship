@@ -1,0 +1,53 @@
+id,company_name,contact_name,industry,budget_usd,timeline_weeks,lead_source,company_size,urgency
+1,Meridian Health Group,Ahmed Raza,Healthcare,45000,8,Referral,Enterprise,High
+2,QuickCart Retail,Sara Khan,Retail,8000,12,Website,Small,Medium
+3,FinSecure Ltd,Bilal Tariq,Finance,75000,16,LinkedIn,Enterprise,High
+4,EduReach Startup,Hina Malik,Education,3000,20,Social Media,Startup,Low
+5,Atlas Manufacturing,Usman Aziz,Manufacturing,60000,10,Referral,Enterprise,High
+6,Bright Smile Dental,Fatima Noor,Healthcare,5000,6,Website,Small,Medium
+7,Velocity Logistics,Kamran Sheikh,Logistics,40000,12,Cold Call,Mid-size,Medium
+8,Hyderabad Textiles,Imran Baig,Manufacturing,25000,14,Website,Mid-size,Medium
+9,NovaTech Solutions,Ayesha Farooq,Technology,90000,6,Referral,Enterprise,High
+10,Sunrise Bakery Chain,Zainab Hussain,Retail,4000,18,Social Media,Small,Low
+11,MediCare Plus,Rashid Iqbal,Healthcare,50000,8,LinkedIn,Enterprise,High
+12,Skyline Real Estate,Nadia Ahmed,Real Estate,15000,10,Website,Mid-size,Medium
+13,GreenLeaf Organics,Tariq Mehmood,Retail,2000,24,Social Media,Startup,Low
+14,Capital Investment Bank,Saad Yousaf,Finance,100000,12,Referral,Enterprise,High
+15,Fresh Mart Grocers,Mariam Sheikh,Retail,6000,16,Website,Small,Medium
+16,EduSmart Academy,Bushra Anwar,Education,12000,10,Referral,Mid-size,Medium
+17,Apex Construction,Faisal Rauf,Construction,55000,14,Cold Call,Enterprise,Medium
+18,PetCare Veterinary,Sana Tahir,Healthcare,3500,20,Social Media,Small,Low
+19,TechWave Startup,Hassan Ali,Technology,5000,8,Website,Startup,High
+20,Royal Furniture Co,Aisha Khalid,Retail,18000,12,Referral,Mid-size,Medium
+21,Northstar Logistics,Adeel Chaudhry,Logistics,70000,10,LinkedIn,Enterprise,High
+22,Little Learners Daycare,Komal Riaz,Education,2500,22,Social Media,Startup,Low
+23,Prime Auto Dealers,Waqar Hussain,Retail,30000,8,Website,Mid-size,High
+24,SecureNet Cybersecurity,Mehwish Iqbal,Technology,85000,6,Referral,Enterprise,High
+25,Family Health Clinic,Junaid Akram,Healthcare,7000,14,Website,Small,Medium
+26,Metro Fashion House,Sobia Naz,Retail,9000,12,Social Media,Small,Medium
+27,BuildRight Contractors,Shahid Mahmood,Construction,40000,16,Cold Call,Mid-size,Medium
+28,DataFlow Analytics,Rabia Saleem,Technology,65000,8,LinkedIn,Enterprise,High
+29,Cornerstone Academy,Asad Javed,Education,10000,18,Website,Mid-size,Low
+30,Urban Eats Restaurant,Mahnoor Ali,Retail,4500,10,Website,Small,Medium
+31,Pinnacle Finance Group,Owais Anjum,Finance,95000,12,Referral,Enterprise,High
+32,Wellness First Clinic,Saima Yousuf,Healthcare,6500,16,Social Media,Small,Low
+33,Horizon Freight Co,Ali Raza,Logistics,35000,14,Website,Mid-size,Medium
+34,StartUp Hub Karachi,Noman Sheikh,Technology,4000,10,Cold Call,Startup,Medium
+35,Golden Gate Hotels,Iqra Bashir,Hospitality,50000,12,Referral,Enterprise,Medium
+36,Classic Books Store,Hamza Tariq,Retail,2500,20,Social Media,Startup,Low
+37,Industrial Parts Co,Tania Aslam,Manufacturing,45000,10,LinkedIn,Mid-size,High
+38,SafeGuard Insurance,Bilal Hashmi,Finance,80000,8,Referral,Enterprise,High
+39,Little Stars Preschool,Areeba Fawad,Education,3000,18,Website,Startup,Low
+40,Express Courier Service,Danish Latif,Logistics,28000,12,Cold Call,Mid-size,Medium
+41,Coastal Seafood Exports,Saqib Nawaz,Manufacturing,38000,14,Website,Mid-size,Medium
+42,TrueValue Insurance,Hira Siddiqui,Finance,72000,10,LinkedIn,Enterprise,High
+43,GreenFields Agriculture,Kashif Mirza,Agriculture,20000,16,Referral,Mid-size,Medium
+44,CloudNine Hosting,Sidra Pervez,Technology,55000,8,Referral,Enterprise,High
+45,Happy Paws Pet Store,Adnan Qureshi,Retail,3000,22,Social Media,Startup,Low
+46,Reliable Auto Parts,Maria Younis,Retail,16000,12,Website,Mid-size,Medium
+47,Stellar Marketing Agency,Faraz Ahmed,Technology,42000,8,Referral,Mid-size,High
+48,Comfort Home Furnishing,Zoya Khan,Retail,7500,14,Website,Small,Medium
+49,Apex Legal Associates,Yasir Mahmood,Professional Services,33000,10,LinkedIn,Mid-size,Medium
+50,Bright Future School,Naila Akhtar,Education,15000,14,Referral,Mid-size,Medium
+51,Quantum Software Labs,Talha Rashid,Technology,110000,6,Referral,Enterprise,High
+52,Cozy Corner Cafe,Mehak Ilyas,Retail,2000,24,Social Media,Startup,Low
