@@ -1,6 +1,6 @@
 # Task 09: AI Lead Scoring and Service Recommendation System
 
-**Intern:** Muhammad Taha Jawad 
+**Intern:** Muhammad Taha Jawad  
 **Company:** CoreTech Innovations  
 **Internship Track:** AI Engineering  
 **Tools:** Python 3, pandas, numpy, Google Colab  
@@ -11,7 +11,7 @@
 
 This system scores incoming sales leads on a 0-100 scale using 5 weighted
 factors, then outputs a priority label, a recommended CoreTech service,
-and a short explanation — helping the sales team prioritize outreach.
+and a short explanation helping the sales team prioritize outreach.
 
 ---
 
@@ -95,6 +95,16 @@ referral, enterprise-scale company, explicitly marked high urgency.
 ---
 
 ## Screenshots
+
+## Scoring Summary:
+<img width="793" height="512" alt="Screenshot 2026-06-18 160628" src="https://github.com/user-attachments/assets/7a2a9a5c-9c5c-4294-9bb4-8aa34f00ab0e" /> 
+
+<img width="854" height="399" alt="image" src="https://github.com/user-attachments/assets/bf526426-6e2e-47b8-89ec-9909354a7c3c" /> 
+
+# Test Case:
+
+<img width="774" height="448" alt="image" src="https://github.com/user-attachments/assets/58f202d0-d269-449c-8093-962ce3f73366" />
+
 
 
 ---
