@@ -1,4 +1,4 @@
-# Task 10 — AI Automation Workflow for Client Inquiries
+# Task 10: AI Automation Workflow for Client Inquiries
 
 **Intern:** Muhammad Taha Jawad  
 **Company:** CoreTech Innovations  
@@ -118,7 +118,23 @@ Generates `coretech_inquiries_processed.csv` automatically.
 ---
 
 ## Screenshots
+**Processing Log showing all 15 inquiries**
+<img width="725" height="319" alt="image" src="https://github.com/user-attachments/assets/6a5e2c67-76c7-4302-b951-7d587ae17ef7" />
 
+*The summary stats (priority distribution, service counts, budget stats, extraction rates)*
+<img width="683" height="468" alt="image" src="https://github.com/user-attachments/assets/7384ff16-dbe6-4bd2-86aa-b2589141f49e" />
+
+**Test Case #1 (Ahmed Raza: Healthcare ERP)**
+<img width="719" height="456" alt="image" src="https://github.com/user-attachments/assets/8f2e587f-5a2f-46a9-bc4f-dda1c1358585" />
+<img width="814" height="398" alt="image" src="https://github.com/user-attachments/assets/97ef9080-abf7-4ddc-b5d3-d45e9acc66c5" />
+
+**Test Case #4 (Hina Malik: Education Low priority)**
+<img width="736" height="480" alt="image" src="https://github.com/user-attachments/assets/c6824921-d78d-4163-99bd-4ae566524857" />
+<img width="733" height="438" alt="image" src="https://github.com/user-attachments/assets/b21b2835-c038-476b-83be-8849a582ff2d" />
+
+**Test Case #12 (Saad Yousaf: Finance High budget)**
+<img width="737" height="473" alt="image" src="https://github.com/user-attachments/assets/af380ad0-c992-4c00-93ea-eb5f85e9882b" />
+<img width="751" height="459" alt="image" src="https://github.com/user-attachments/assets/3ffd15e6-b2b9-4d7f-a79e-eade2eba018c" />
 
 
 ---
