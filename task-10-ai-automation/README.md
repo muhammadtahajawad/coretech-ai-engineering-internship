@@ -47,12 +47,12 @@ Save All Results to CSV
 
 | Field | Method |
 |---|---|
-| Client Name | Regex — matches name introduction phrases |
-| Client Email | Regex — standard email pattern |
-| Budget | Regex — detects $, USD, dollar formats |
-| Timeline | Regex — detects week-based timeline phrases |
-| Urgency | Keyword matching — urgent/flexible/medium |
-| Service | Keyword matching — maps to CoreTech services |
+| Client Name | Regex: matches name introduction phrases |
+| Client Email | Regex: standard email pattern |
+| Budget | Regex: detects $, USD, dollar formats |
+| Timeline | Regex: detects week-based timeline phrases |
+| Urgency | Keyword matching: urgent/flexible/medium |
+| Service | Keyword matching: maps to CoreTech services |
 
 ---
 
