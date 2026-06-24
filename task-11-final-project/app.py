@@ -165,4 +165,61 @@ with gr.Blocks(
                 send_btn = gr.Button("Send", variant="primary", scale=1)
 
             with gr.Row():
-                clear_btn = gr.Button("🗑️ Clear Chat",
+                clear_btn = gr.Button("🗑️ Clear Chat", variant="secondary")
+
+        # ── Right Column: Suggestions + Info ──
+        with gr.Column(scale=1):
+            gr.Markdown("### 💡 Suggested Questions")
+            for question in SUGGESTED_QUESTIONS:
+                btn = gr.Button(question, size="sm", variant="secondary")
+                btn.click(
+                    fn=use_suggestion,
+                    inputs=[],
+                    outputs=[msg_input]
+                ).then(
+                    fn=lambda q=question: q,
+                    inputs=[],
+                    outputs=[msg_input]
+                )
+
+            gr.Markdown("""
+            ---
+            ### 📊 System Info
+            - **Records:** 55 knowledge entries
+            - **Categories:** Company Info, Services, Projects, Pricing, Process, FAQ
+            - **Retrieval:** Top 3 semantic matches
+            - **Model:** all-MiniLM-L6-v2
+            ---
+            ### 📞 Contact CoreTech
+            - 🌐 coretechio.com
+            - 📧 hr@coretechio.com
+            - 📱 +92 348 0394588
+            """)
+
+    # ── Event Handlers ──
+    send_btn.click(
+        fn=chat,
+        inputs=[msg_input, chatbot],
+        outputs=[chatbot, msg_input]
+    )
+    msg_input.submit(
+        fn=chat,
+        inputs=[msg_input, chatbot],
+        outputs=[chatbot, msg_input]
+    )
+    clear_btn.click(
+        fn=clear_chat,
+        outputs=[chatbot, msg_input]
+    )
+
+    # ── Footer ──
+    gr.Markdown("""
+    ---
+    *Built by Muhammad Taha — AI Engineering Intern, CoreTech Innovations*
+    *Powered by sentence-transformers, FAISS, and Gradio*
+    """)
+
+# ─── LAUNCH ───────────────────────────────────────────────────────────────────
+
+if __name__ == "__main__":
+    app.launch()
