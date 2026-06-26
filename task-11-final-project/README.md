@@ -36,12 +36,12 @@ model memory alone. It has three steps:
 
 ### Pipeline Architecture
 
-1. **User Question** – Input query from the user.
-2. **Embedding Generation** – `all-MiniLM-L6-v2` encodes the query into a 384-dimensional vector.
-3. **Vector Search** – FAISS (`IndexFlatIP`) scans 55 knowledge vectors using inner product similarity.
-4. **Retrieval** – Extracts the top 3 semantically relevant chunks with similarity scores.
-5. **Generation** – Synthesizes the retrieved chunks into a grounded response.
-6. **UI Deployment** – Displays the final answer and source attribution via Gradio.
+1. **User Question**: Input query from the user.
+2. **Embedding Generation**:  `all-MiniLM-L6-v2` encodes the query into a 384-dimensional vector.
+3. **Vector Search**: FAISS (`IndexFlatIP`) scans 55 knowledge vectors using inner product similarity.
+4. **Retrieval**: Extracts the top 3 semantically relevant chunks with similarity scores.
+5. **Generation**: Synthesizes the retrieved chunks into a grounded response.
+6. **UI Deployment**: Displays the final answer and source attribution via Gradio.
 
 
 
@@ -59,9 +59,6 @@ python app.py
 ```bash
 python knowledge_base.py
 ```
-
-### 5. Open in browser
-http://localhost:7860
 
 
 ---
