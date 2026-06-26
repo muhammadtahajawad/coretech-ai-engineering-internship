@@ -131,24 +131,26 @@ Run `knowledge_base.py` to see a full comparison. Sample result:
 | Semantic Search | Pricing Models + Starter Package | High |
 
 ---
+## Live Demo
+
+🚀 [Launch Live App](https://huggingface.co/spaces/mtahajawad/coretech-rag-assistant)
 
 ## Screenshots
 
-### Live Application
-![App Screenshot](screenshots/app-screenshot.png)
+### Full Application Interface
 
-### RAG Response with Source Attribution
-![RAG Response](screenshots/rag-response.png)
 
-### Knowledge Base Analysis
-![KB Analysis](screenshots/kb-analysis.png)
 
----
+### RAG Response — Services Query
 
-## Live Demo
 
-🚀 **[Launch Live App](https://huggingface.co/spaces/mtahajawad/coretech-rag-assistant)**
 
+
+### RAG Response — Pricing Query
+![Pricing Response](screenshots/response-pricing.png)
+
+### RAG Response — Founders Query
+![Founders Response](screenshots/response-founders.png)
 ---
 
 *Muhammad Taha Jawad — AI Engineering Intern, CoreTech Innovations*  
