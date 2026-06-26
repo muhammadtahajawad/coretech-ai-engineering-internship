@@ -138,19 +138,16 @@ Run `knowledge_base.py` to see a full comparison. Sample result:
 ## Screenshots
 
 ### Full Application Interface
-
-
+![App Interface](screenshots/Screenshot%202026-06-26%20082145.png)
 
 ### RAG Response — Services Query
-
-
-
+![Services Response](screenshots/Screenshot%202026-06-26%20083009.png)
 
 ### RAG Response — Pricing Query
-![Pricing Response](screenshots/response-pricing.png)
+![Pricing Response](screenshots/Screenshot%202026-06-26%20083032.png)
 
 ### RAG Response — Founders Query
-![Founders Response](screenshots/response-founders.png)
+![Founders Response](screenshots/Screenshot%202026-06-26%20083059.png)
 ---
 
 *Muhammad Taha Jawad — AI Engineering Intern, CoreTech Innovations*  
