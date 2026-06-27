@@ -9,7 +9,7 @@
 
 ## Project Summary
 
-A production-quality Retrieval-Augmented Generation (RAG) system that answers
+A production quality Retrieval Augmented Generation (RAG) system that answers
 questions about CoreTech Innovations using semantic search over a curated
 knowledge base. Built with sentence-transformers, FAISS, and Streamlit.
 
@@ -21,7 +21,7 @@ knowledge base. Built with sentence-transformers, FAISS, and Streamlit.
 |---|---|
 | GitHub Repository | https://github.com/muhammadtahajawad/coretech-ai-engineering-internship/tree/main/task-11-final-project |
 | Live Demo | https://huggingface.co/spaces/mtahajawad/coretech-rag-assistant |
-| Demo Video |  |
+| Demo Video | https://drive.google.com/file/d/1zmAJZEi7OAgjXJRgK9EcEtEL8H37hou1/view?usp=sharing |
 
 ---
 
@@ -50,8 +50,8 @@ knowledge base. Built with sentence-transformers, FAISS, and Streamlit.
 ---
 
 ## Demo Video
-*Click the link below to watch the demo video* 
-
+*Click the link below to watch the demo video:*  
+https://drive.google.com/file/d/1zmAJZEi7OAgjXJRgK9EcEtEL8H37hou1/view?usp=sharing
 
 The video covers:
 1. Project idea and problem statement
